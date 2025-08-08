@@ -1,0 +1,15 @@
+C:\Users\ngoll\Documents\studies\csharp\AvaliacaoAtletas\AvaliacaoAtletas\bin\Debug\net9.0\AvaliacaoAtletas.exe
+C:\Users\ngoll\Documents\studies\csharp\AvaliacaoAtletas\AvaliacaoAtletas\bin\Debug\net9.0\AvaliacaoAtletas.deps.json
+C:\Users\ngoll\Documents\studies\csharp\AvaliacaoAtletas\AvaliacaoAtletas\bin\Debug\net9.0\AvaliacaoAtletas.runtimeconfig.json
+C:\Users\ngoll\Documents\studies\csharp\AvaliacaoAtletas\AvaliacaoAtletas\bin\Debug\net9.0\AvaliacaoAtletas.dll
+C:\Users\ngoll\Documents\studies\csharp\AvaliacaoAtletas\AvaliacaoAtletas\bin\Debug\net9.0\AvaliacaoAtletas.pdb
+C:\Users\ngoll\Documents\studies\csharp\AvaliacaoAtletas\AvaliacaoAtletas\obj\Debug\net9.0\AvaliacaoAtletas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ngoll\Documents\studies\csharp\AvaliacaoAtletas\AvaliacaoAtletas\obj\Debug\net9.0\AvaliacaoAtletas.AssemblyInfoInputs.cache
+C:\Users\ngoll\Documents\studies\csharp\AvaliacaoAtletas\AvaliacaoAtletas\obj\Debug\net9.0\AvaliacaoAtletas.AssemblyInfo.cs
+C:\Users\ngoll\Documents\studies\csharp\AvaliacaoAtletas\AvaliacaoAtletas\obj\Debug\net9.0\AvaliacaoAtletas.csproj.CoreCompileInputs.cache
+C:\Users\ngoll\Documents\studies\csharp\AvaliacaoAtletas\AvaliacaoAtletas\obj\Debug\net9.0\AvaliacaoAtletas.sourcelink.json
+C:\Users\ngoll\Documents\studies\csharp\AvaliacaoAtletas\AvaliacaoAtletas\obj\Debug\net9.0\AvaliacaoAtletas.dll
+C:\Users\ngoll\Documents\studies\csharp\AvaliacaoAtletas\AvaliacaoAtletas\obj\Debug\net9.0\refint\AvaliacaoAtletas.dll
+C:\Users\ngoll\Documents\studies\csharp\AvaliacaoAtletas\AvaliacaoAtletas\obj\Debug\net9.0\AvaliacaoAtletas.pdb
+C:\Users\ngoll\Documents\studies\csharp\AvaliacaoAtletas\AvaliacaoAtletas\obj\Debug\net9.0\AvaliacaoAtletas.genruntimeconfig.cache
+C:\Users\ngoll\Documents\studies\csharp\AvaliacaoAtletas\AvaliacaoAtletas\obj\Debug\net9.0\ref\AvaliacaoAtletas.dll
