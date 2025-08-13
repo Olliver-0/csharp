@@ -1,0 +1,15 @@
+C:\Users\ngoll\Documents\studies\csharp\SistemaBiblioteca\BibliotecaConsole\bin\Debug\net9.0\BibliotecaConsole.exe
+C:\Users\ngoll\Documents\studies\csharp\SistemaBiblioteca\BibliotecaConsole\bin\Debug\net9.0\BibliotecaConsole.deps.json
+C:\Users\ngoll\Documents\studies\csharp\SistemaBiblioteca\BibliotecaConsole\bin\Debug\net9.0\BibliotecaConsole.runtimeconfig.json
+C:\Users\ngoll\Documents\studies\csharp\SistemaBiblioteca\BibliotecaConsole\bin\Debug\net9.0\BibliotecaConsole.dll
+C:\Users\ngoll\Documents\studies\csharp\SistemaBiblioteca\BibliotecaConsole\bin\Debug\net9.0\BibliotecaConsole.pdb
+C:\Users\ngoll\Documents\studies\csharp\SistemaBiblioteca\BibliotecaConsole\obj\Debug\net9.0\BibliotecaConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ngoll\Documents\studies\csharp\SistemaBiblioteca\BibliotecaConsole\obj\Debug\net9.0\BibliotecaConsole.AssemblyInfoInputs.cache
+C:\Users\ngoll\Documents\studies\csharp\SistemaBiblioteca\BibliotecaConsole\obj\Debug\net9.0\BibliotecaConsole.AssemblyInfo.cs
+C:\Users\ngoll\Documents\studies\csharp\SistemaBiblioteca\BibliotecaConsole\obj\Debug\net9.0\BibliotecaConsole.csproj.CoreCompileInputs.cache
+C:\Users\ngoll\Documents\studies\csharp\SistemaBiblioteca\BibliotecaConsole\obj\Debug\net9.0\BibliotecaConsole.sourcelink.json
+C:\Users\ngoll\Documents\studies\csharp\SistemaBiblioteca\BibliotecaConsole\obj\Debug\net9.0\BibliotecaConsole.dll
+C:\Users\ngoll\Documents\studies\csharp\SistemaBiblioteca\BibliotecaConsole\obj\Debug\net9.0\refint\BibliotecaConsole.dll
+C:\Users\ngoll\Documents\studies\csharp\SistemaBiblioteca\BibliotecaConsole\obj\Debug\net9.0\BibliotecaConsole.pdb
+C:\Users\ngoll\Documents\studies\csharp\SistemaBiblioteca\BibliotecaConsole\obj\Debug\net9.0\BibliotecaConsole.genruntimeconfig.cache
+C:\Users\ngoll\Documents\studies\csharp\SistemaBiblioteca\BibliotecaConsole\obj\Debug\net9.0\ref\BibliotecaConsole.dll
