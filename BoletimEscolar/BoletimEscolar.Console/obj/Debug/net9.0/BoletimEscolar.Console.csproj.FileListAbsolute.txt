@@ -1,0 +1,15 @@
+C:\Users\ngoll\Documents\studies\csharp\BoletimEscolar\BoletimEscolar.Console\bin\Debug\net9.0\BoletimEscolar.Console.exe
+C:\Users\ngoll\Documents\studies\csharp\BoletimEscolar\BoletimEscolar.Console\bin\Debug\net9.0\BoletimEscolar.Console.deps.json
+C:\Users\ngoll\Documents\studies\csharp\BoletimEscolar\BoletimEscolar.Console\bin\Debug\net9.0\BoletimEscolar.Console.runtimeconfig.json
+C:\Users\ngoll\Documents\studies\csharp\BoletimEscolar\BoletimEscolar.Console\bin\Debug\net9.0\BoletimEscolar.Console.dll
+C:\Users\ngoll\Documents\studies\csharp\BoletimEscolar\BoletimEscolar.Console\bin\Debug\net9.0\BoletimEscolar.Console.pdb
+C:\Users\ngoll\Documents\studies\csharp\BoletimEscolar\BoletimEscolar.Console\obj\Debug\net9.0\BoletimEscolar.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ngoll\Documents\studies\csharp\BoletimEscolar\BoletimEscolar.Console\obj\Debug\net9.0\BoletimEscolar.Console.AssemblyInfoInputs.cache
+C:\Users\ngoll\Documents\studies\csharp\BoletimEscolar\BoletimEscolar.Console\obj\Debug\net9.0\BoletimEscolar.Console.AssemblyInfo.cs
+C:\Users\ngoll\Documents\studies\csharp\BoletimEscolar\BoletimEscolar.Console\obj\Debug\net9.0\BoletimEscolar.Console.csproj.CoreCompileInputs.cache
+C:\Users\ngoll\Documents\studies\csharp\BoletimEscolar\BoletimEscolar.Console\obj\Debug\net9.0\BoletimEscolar.Console.sourcelink.json
+C:\Users\ngoll\Documents\studies\csharp\BoletimEscolar\BoletimEscolar.Console\obj\Debug\net9.0\BoletimEscolar.Console.dll
+C:\Users\ngoll\Documents\studies\csharp\BoletimEscolar\BoletimEscolar.Console\obj\Debug\net9.0\refint\BoletimEscolar.Console.dll
+C:\Users\ngoll\Documents\studies\csharp\BoletimEscolar\BoletimEscolar.Console\obj\Debug\net9.0\BoletimEscolar.Console.pdb
+C:\Users\ngoll\Documents\studies\csharp\BoletimEscolar\BoletimEscolar.Console\obj\Debug\net9.0\BoletimEscolar.Console.genruntimeconfig.cache
+C:\Users\ngoll\Documents\studies\csharp\BoletimEscolar\BoletimEscolar.Console\obj\Debug\net9.0\ref\BoletimEscolar.Console.dll
