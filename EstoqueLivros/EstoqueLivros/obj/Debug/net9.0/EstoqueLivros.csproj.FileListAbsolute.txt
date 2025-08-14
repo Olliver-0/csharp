@@ -1,0 +1,15 @@
+C:\Users\ngoll\Documents\studies\csharp\EstoqueLivros\EstoqueLivros\bin\Debug\net9.0\EstoqueLivros.exe
+C:\Users\ngoll\Documents\studies\csharp\EstoqueLivros\EstoqueLivros\bin\Debug\net9.0\EstoqueLivros.deps.json
+C:\Users\ngoll\Documents\studies\csharp\EstoqueLivros\EstoqueLivros\bin\Debug\net9.0\EstoqueLivros.runtimeconfig.json
+C:\Users\ngoll\Documents\studies\csharp\EstoqueLivros\EstoqueLivros\bin\Debug\net9.0\EstoqueLivros.dll
+C:\Users\ngoll\Documents\studies\csharp\EstoqueLivros\EstoqueLivros\bin\Debug\net9.0\EstoqueLivros.pdb
+C:\Users\ngoll\Documents\studies\csharp\EstoqueLivros\EstoqueLivros\obj\Debug\net9.0\EstoqueLivros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ngoll\Documents\studies\csharp\EstoqueLivros\EstoqueLivros\obj\Debug\net9.0\EstoqueLivros.AssemblyInfoInputs.cache
+C:\Users\ngoll\Documents\studies\csharp\EstoqueLivros\EstoqueLivros\obj\Debug\net9.0\EstoqueLivros.AssemblyInfo.cs
+C:\Users\ngoll\Documents\studies\csharp\EstoqueLivros\EstoqueLivros\obj\Debug\net9.0\EstoqueLivros.csproj.CoreCompileInputs.cache
+C:\Users\ngoll\Documents\studies\csharp\EstoqueLivros\EstoqueLivros\obj\Debug\net9.0\EstoqueLivros.sourcelink.json
+C:\Users\ngoll\Documents\studies\csharp\EstoqueLivros\EstoqueLivros\obj\Debug\net9.0\EstoqueLivros.dll
+C:\Users\ngoll\Documents\studies\csharp\EstoqueLivros\EstoqueLivros\obj\Debug\net9.0\refint\EstoqueLivros.dll
+C:\Users\ngoll\Documents\studies\csharp\EstoqueLivros\EstoqueLivros\obj\Debug\net9.0\EstoqueLivros.pdb
+C:\Users\ngoll\Documents\studies\csharp\EstoqueLivros\EstoqueLivros\obj\Debug\net9.0\EstoqueLivros.genruntimeconfig.cache
+C:\Users\ngoll\Documents\studies\csharp\EstoqueLivros\EstoqueLivros\obj\Debug\net9.0\ref\EstoqueLivros.dll
